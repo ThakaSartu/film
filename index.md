@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<IMG scr="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SQUISHYPUSSRAPED_HAILEY_T.jpg">
+
+<IMG scr="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/THAKA_RASHARD_IN_TSHIRT_LADY_SUGGESTION_FOR_THE_LOVE_BOMRS_SELASSIE_HOWSE_MUNA_AND_RASHARD_DESIGN_ATLIEN.jpg">
+<IMG scr="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/meErikaStthomasLOMOGRAPHY_DISOSABLE.jpg">
+<IMG scr="https://images.footlocker.com/is/image/EBFL2/38447401_a1?wid=2000&hei=2000&fmt=png-alpha">
 <IMG scr="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg">
 <iframe style="border-radius:0px" src="https://open.spotify.com/embed/track/1CE8bPOMVnuasYdvGMduB4?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://www.google.com/logos/doodles/2022/doodle-for-google-2022-us-winner-6753651837109435.3-2x.png">
