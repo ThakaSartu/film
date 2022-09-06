@@ -28,6 +28,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://www.openbsd.org/images/tshirt-23.gif">
 <IMG src="https://muylinux.xyz/wp-content/uploads/2022/06/FreeBSD-131-fue-lanzado-con-varias-mejoras.jpg">
 <IMG src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/02/Intel_Xeon_D.621d5cf4d9a7e.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630">
+<IMG src="https://i.dell.com/is/image/DellContent//content/dam/images/products/servers/poweredge/r940xa/dellemc-per940xa-32x2-5-u.psd?fmt=png-alpha&pscan=auto&scl=1&wid=4306&hei=2558&qlt=100,0&resMode=sharp2&size=4306,2558">
  {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
