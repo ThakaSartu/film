@@ -8,8 +8,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-
-<IMG src>
+<IMG src="https://images.footlocker.com/is/image/EBFL2/Q8589800_a3?wid=2000&hei=2000&fmt=png-alpha">
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/spacefamilyCoralSartuMunaerikaLifeChallenges.jpg">
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
