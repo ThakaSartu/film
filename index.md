@@ -8,7 +8,7 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
-
+<img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122074483_1760071014154548_6106652635468149841_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=SRc3cvplgwkAX_UHFr8&_nc_ht=scontent-lax3-1.xx&oh=00_AT9-L-lcCh-NIz55pUFZ0Y1jPgc2Gs9NcVkyMncE1Q3IKA&oe=633D70E2" alt="Sartu I got this ECKO jacket from Arun in Savannah, I need your body">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -17,7 +17,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/spacefamilyCoralSartuMunaerikaLifeChallenges.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SQUISHYPUSSRAPED_HAILEY_T.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg">
-<IMG src="">
+
 <IMG src="https://images.footlocker.com/is/image/EBFL2/Q7783600_a3?wid=2000&hei=2000&fmt=png-alpha">
 <IMG src="https://images.footlocker.com/is/image/EBFL2/Q8589800_a3?wid=2000&hei=2000&fmt=png-alpha">
 <IMG src="https://images.footlocker.com/is/image/EBFL2/V2182900_a4?wid=2000&hei=2000&fmt=png-alpha">
