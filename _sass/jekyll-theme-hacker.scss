@@ -365,7 +365,9 @@ a {
 iframe {
   margin: 0px;
   padding: 0px;
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  background: rgb(238,242,109);
+  background: linear-gradient(270deg, rgba(238,242,109,1) 0%, rgba(242,61,94,0.39164490861618795) 60%, rgba(0,212,255,1) 100%);
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg"); 
   border: none;
 }
 
@@ -381,6 +383,8 @@ img {
   padding: 0px;
   margin: 0px;
   width: 100%;
+  background: rgb(238,242,109);
+background: linear-gradient(270deg, rgba(238,242,109,1) 0%, rgba(242,61,94,0.39164490861618795) 60%, rgba(0,212,255,1) 100%);
 }
 
 h2,
