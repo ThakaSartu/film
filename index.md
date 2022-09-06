@@ -8,6 +8,8 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5IuThMnaayjZACJ1QhVDf0?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/THAKA_RASHARD_IN_TSHIRT_LADY_SUGGESTION_FOR_THE_LOVE_BOMRS_SELASSIE_HOWSE_MUNA_AND_RASHARD_DESIGN_ATLIEN.jpg">
