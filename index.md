@@ -7,6 +7,13 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+## Refactoring
+Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+
+Its heart is a series of small behavior preserving transformations. Each transformation (called a "refactoring") does little, but a sequence of these transformations can produce a significant restructuring. Since each refactoring is small, it's less likely to go wrong. The system is kept fully working after each refactoring, reducing the chances that a system can get seriously broken during the restructuring...[ReadMore](https://refactoring.com/)
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1164132823&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/liluzivert" title="Lil Uzi Vert" target="_blank" style="color: #cccccc; text-decoration: none;">Lil Uzi Vert</a> · <a href="https://soundcloud.com/liluzivert/sets/pluto-x-baby-pluto-deluxe" title="Pluto x Baby Pluto (Deluxe)" target="_blank" style="color: #cccccc; text-decoration: none;">Pluto x Baby Pluto (Deluxe)</a></div>
 
 [Yung Joc, Eva & Savannah Help Stevie w/ Gardening | Leave It To Stevie](https://www.youtube.com/watch?v=8V_ko7e23jI)
