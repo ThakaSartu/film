@@ -7,7 +7,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
-
+[MAKiNG_ART_WiF_SVG::HTMLSHiT](https://www.w3schools.com/html/html5_svg.asp)
 ## Refactoring
 Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
 
