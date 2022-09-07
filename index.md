@@ -7,6 +7,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+[Rasheeda’s Date Night Glam: Get The Look | S9 E5 | Love & Hip Hop: Atlanta](https://www.youtube.com/watch?v=v1hFvUk1N8I)
 [The Creator of the And1 Mixtape - Set Free Interview](https://www.youtube.com/watch?v=r5cjanXahvc)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIZG9Rs3DEWpJ?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 [The Professor vs Lebron James' Philippines Court (GH Ep.3)](https://www.youtube.com/watch?v=jyElddWaIsQ)
