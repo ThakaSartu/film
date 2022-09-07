@@ -7,6 +7,7 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIZG9Rs3DEWpJ?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 [The Professor vs Lebron James' Philippines Court (GH Ep.3)](https://www.youtube.com/watch?v=jyElddWaIsQ)
 ## How to Get Gradient Hover Colors to Work::SOLODEV_dOt_cOm
 Even the most skilled of designers and developers struggle with small little elements of code. One of the trickiest things to nail down are gradients and transition effects. They rarely play nicely with each other. 
