@@ -7,7 +7,14 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+## How to Get Gradient Hover Colors to Work::SOLODEV_dOt_cOm
+Even the most skilled of designers and developers struggle with small little elements of code. One of the trickiest things to nail down are gradients and transition effects. They rarely play nicely with each other. 
 
+However, gradient hovers and transitions can give your web design and navigation a slight boost by emphasizing an icon or button a little more for your website visitors. This tutorial will help you avoid the tricky pitfalls of perfecting CSS gradients in order to create a seamless transition functionality. 
+
+[ReadMorE = HTML](https://www.solodev.com/blog/web-design/how-to-get-gradient-hover-colors-to-work.stml)
+
+<IMG src="https://www.webdesignerwall.com/wp-content/uploads/2010/04/css-color-styles.gif">
 <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/122074483_1760071014154548_6106652635468149841_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=SRc3cvplgwkAX_UHFr8&_nc_ht=scontent-lax3-1.xx&oh=00_AT9-L-lcCh-NIz55pUFZ0Y1jPgc2Gs9NcVkyMncE1Q3IKA&oe=633D70E2" alt="Sartu I got this ECKO jacket from Arun in Savannah, I need your body">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/SARTU_AND_NORMANI_ARE_THE_SAME_PERSON.jpg">
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/film/master/assets/images/MetalMuna.jpg">
