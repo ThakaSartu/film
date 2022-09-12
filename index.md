@@ -1,4 +1,4 @@
- {% highlight ruby %}
+{% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
 3 # ANOTHER###############################################
@@ -7,6 +7,9 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<hr>
+<img src="https://images.footlocker.com/is/image/EBFL2/9394SSCA_a3?wid=2000&hei=2000&fmt=png-alpha">
+
 [Earthquakes rattle live television](https://www.youtube.com/watch?v=J0nNEycsyXA)
 [A Beginners Guide to Custom 404 Pages](https://www.lcn.com/blog/beginners-guide-custom-404-pages/)
 [MAKiNG_ART_WiF_SVG::HTMLSHiT](https://www.w3schools.com/html/html5_svg.asp)
