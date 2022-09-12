@@ -9,6 +9,7 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 <img src="https://images.footlocker.com/is/image/EBFL2/9394SSCA_a3?wid=2000&hei=2000&fmt=png-alpha">
+<img src="https://images.footlocker.com/is/image/EBFL2/X1784300_a3?wid=520&hei=520&fmt=png-alpha" alt="yellwyMaxs">
 
 [Earthquakes rattle live television](https://www.youtube.com/watch?v=J0nNEycsyXA)
 [A Beginners Guide to Custom 404 Pages](https://www.lcn.com/blog/beginners-guide-custom-404-pages/)
