@@ -8,6 +8,35 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## Dear Sartu
+<h2>GHOST_iN_THE_SHELL 1995</h2>
+
+<p>Since our family got kidnapped I have had to cope with messages and threats
+  from of the prostitution crews of LOS_ANGELES_and_ATLANTA they all operate
+  here ya know… ##GLOBAL_SEX_SLAVE_TRADE_and_TOURiSM hint hint. I am starting to understand more now, its the way you walk, I can tell you just did it with someone. The thing now
+  that 2 years nearly have passed… No one talks to me, Im destitute and I get
+  random glimpses of you Mrs Selassie and Mrs. Kelly you took both names.  I have
+  spotted in prostitution aka SexSlavery. Ive lived with you and know your sexuality!! You are not
+  a prostitute. I hate getting notices from random creepy people that you are not
+  going to get your family back and may lose your penis. The agression is awful
+  and now that I have lived here a while and know what your  orgasm patterns
+  look like in the real world… Im getting adjusted but I feel really raped by the Porno_Jons_and_The_dDance_community guys who knew our cohabitation plan and interrupted... Now heres unparented molested kids everywhere, what a great job they have done in this community showing america that Dancing is healthy. Its like if you get into art you have to have hedonistic sex or else you are banned. Im keepin it tight for you ohKay</p>
+
+<div class="twoPanelSpread">
+  <div class="row">
+    <div class="panelColumn">
+      <div class="leftColumn">
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" />
+      </div>
+    </div>
+    <div class="panelColumn">
+      <div class="rightColumn">
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED2.PNG" alt="Girl in a jacket" />
+      </div>
+    </div>
+  </div>
+</div>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/401Brt4eFvFDJK97CgijRb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <a href="https://open.spotify.com/album/5deucTECSaDkVgycsyUsPc?si=DzGwV1wGQguzVHkbaR31gA"><IMG src="https://media.pitchfork.com/photos/5fa034ed9fb1590f60473f91/1:1/w_320,c_limit/SpiritWorldFieldGuide_AesopRock.jpg" alt="Aesop SPiRiT_WORLD_FiELD_GUIDE_COVER_ART"></a>
