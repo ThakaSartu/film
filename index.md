@@ -8,6 +8,15 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+<hr>
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://cdn.images.express.co.uk/img/dynamic/128/590x/curious-614794.jpg" alt="THIS_RODENT_REMIND_ME_OF_MY_WIFE">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/c4/f7/74/c4f7749e94baf3659116194c8d061249.jpg" alt="You still doing that im reaching out to you when im taking photos, i want more that that... you just dont know.  I will follow directions, something will work out someday. As your cousin I know I am healthy to make sure the nasty tape people dont make you disappear to the best of my power">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/c4/f7/74/c4f7749e94baf3659116194c8d061249.jpg" alt="You still doing that im reaching out to you when im taking photos, i want more that that... you just dont know.  I will follow directions, something will work out someday. As your cousin I know I am healthy to make sure the nasty tape people dont make you disappear to the best of my power">
+
+</div>
+<hr>
 <IMG src="https://cdn.smehost.net/officialnormanicom-usrcaprod/wp-content/uploads/2021/10/IMG_5304-1365x2048.jpg" alt="Naser, Megan aka Tori HEre##SARTU_HERE_WHO_SHE_AN_MEGS_WIT??">
 <IMG src="https://cdn.smehost.net/officialnormanicom-usrcaprod/wp-content/uploads/2021/10/photo5-1024x682.png" alt="Sartu_as_Normani_Nija_is_and_TEMS_Different_characters_She_PLay">
 <hr>
