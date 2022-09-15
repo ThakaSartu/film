@@ -8,6 +8,18 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoeWdjL" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakasartu/pen/PoeWdjL">
+  Audio Player HTML5 Wellcome to BUBBLEGUMFM</a> by ThakaSartu (<a href="https://codepen.io/thakasartu">@thakasartu</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<hr>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/540230523&color=%23716999&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tink_g" title="Tink" target="_blank" style="color: #cccccc; text-decoration: none;">Tink</a> · <a href="https://soundcloud.com/tink_g/tink-different" title="Different" target="_blank" style="color: #cccccc; text-decoration: none;">Different</a></div>
+<hr>
+
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/995517679&color=%23a28570&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/hieroglyphics-1" title="Hieroglyphics" target="_blank" style="color: #cccccc; text-decoration: none;">Hieroglyphics</a> · <a href="https://soundcloud.com/hieroglyphics-1/make-your-move" title="Make Your Move" target="_blank" style="color: #cccccc; text-decoration: none;">Make Your Move##GOAPELE</a></div>
+<hr>
 <h2 style="color:white;" class="neon">
 LiGHTSKiNKEiSHA
 </h2>
@@ -16,7 +28,7 @@ LiGHTSKiNKEiSHA
   <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
   <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
   </video>
-  
+
 ## Dear Sartu
 <h2>GHOST_iN_THE_SHELL 1995</h2>
 
