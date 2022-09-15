@@ -8,10 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<IMG src="https://cdn.smehost.net/officialnormanicom-usrcaprod/wp-content/uploads/2021/10/IMG_5304-1365x2048.jpg" alt="Naser, Megan aka Tori HEre##SARTU_HERE_WHO_SHE_AN_MEGS_WIT??">
 <IMG src="https://cdn.smehost.net/officialnormanicom-usrcaprod/wp-content/uploads/2021/10/photo5-1024x682.png" alt="Sartu_as_Normani_Nija_is_and_TEMS_Different_characters_She_PLay">
 <hr>
   <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1161712165&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/aesop-rock-official" title="Aesop Rock" target="_blank" style="color: #cccccc; text-decoration: none;">Aesop Rock</a> · <a href="https://soundcloud.com/aesop-rock-official/sets/spirit-world-field-guide-2" title="Spirit World Field Guide" target="_blank" style="color: #cccccc; text-decoration: none;">Spirit World Field Guide</a></div>
-  <hr>
+<hr>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zKF3qcJh45Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/QT-RfY2H23o" title="Bruce Lee vs Kareem Abdul-Jabbar / Game of Death (1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -19,6 +20,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aw4dTY2mPOg" title="Enter The Dragon (Bruce lee Vs Han) No Interuptions HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uR2-UWYhuOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
+
 ## If you ask me I'm ready
 <a href="https://youtu.be/x-x-eyZf8Ko"><IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/UNTHINKABLE_MARRY_US_SARTU_LETS_ALL_GET_MARRIED_TOGETHER.jpg"></a>
 
