@@ -8,6 +8,12 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/401Brt4eFvFDJK97CgijRb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<a href="https://open.spotify.com/album/5deucTECSaDkVgycsyUsPc?si=DzGwV1wGQguzVHkbaR31gA"><IMG src="https://media.pitchfork.com/photos/5fa034ed9fb1590f60473f91/1:1/w_320,c_limit/SpiritWorldFieldGuide_AesopRock.jpg" alt="Aesop SPiRiT_WORLD_FiELD_GUIDE_COVER_ART"></a>
+
+[Spirit World Field Guide by Aesop Rock](https://pitchfork.com/reviews/albums/aesop-rock-spirit-world-field-guide/)
+
 
 <hr>
 <div class="pinupGallery">
