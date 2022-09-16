@@ -8,6 +8,9 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6J9DKndd11rZWqL7xOPSLl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5VUEkLZeU3KHHY9WtF9Vgn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kfg4YF0vJPpuKV3KsBbvU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qgputuStgCS7yW9PYoVJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
