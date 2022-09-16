@@ -8,6 +8,14 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+<hr>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kfg4YF0vJPpuKV3KsBbvU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qgputuStgCS7yW9PYoVJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qgputuStgCS7yW9PYoVJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qgputuStgCS7yW9PYoVJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qgputuStgCS7yW9PYoVJG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
+<hr>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/257115915&color=%23584c4c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/freefallrecords1" title="Freefall Records" target="_blank" style="color: #cccccc; text-decoration: none;">Freefall Records</a> · <a href="https://soundcloud.com/freefallrecords1/lil-kim-blow-a-check-feat-puff-daddy-french-montana" title="Lil&#x27; Kim - Blow A Check (feat. Puff Daddy &amp; French Montana)" target="_blank" style="color: #cccccc; text-decoration: none;">Lil&#x27; Kim - Blow A Check (feat. Puff Daddy &amp; French Montana)</a></div>
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoeWdjL" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thakasartu/pen/PoeWdjL">
